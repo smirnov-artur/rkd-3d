@@ -1,0 +1,18 @@
+{
+ "hozyajka": {
+  "model": "hozyajka.glb",
+  "klipy": {
+   "stojka": "hozyajka-stojka.glb",
+   "razvorot": "hozyajka-razvorot.glb"
+  }
+ },
+ "kapsuly": {
+  "3": {
+   "model": "kapsula-3.glb",
+   "klipy": {
+    "stojka": "kapsula-3-stojka.glb",
+    "razvorot": "kapsula-3-razvorot.glb"
+   }
+  }
+ }
+}
