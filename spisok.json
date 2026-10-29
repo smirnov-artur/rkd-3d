@@ -7,6 +7,20 @@
   }
  },
  "kapsuly": {
+  "1": {
+   "model": "kapsula-1.glb",
+   "klipy": {
+    "stojka": "kapsula-1-stojka.glb",
+    "razvorot": "kapsula-1-razvorot.glb"
+   }
+  },
+  "2": {
+   "model": "kapsula-2.glb",
+   "klipy": {
+    "stojka": "kapsula-2-stojka.glb",
+    "razvorot": "kapsula-2-razvorot.glb"
+   }
+  },
   "3": {
    "model": "kapsula-3.glb",
    "klipy": {
