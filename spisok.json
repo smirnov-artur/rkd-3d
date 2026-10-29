@@ -27,6 +27,34 @@
     "stojka": "kapsula-3-stojka.glb",
     "razvorot": "kapsula-3-razvorot.glb"
    }
+  },
+  "4": {
+   "model": "kapsula-4.glb",
+   "klipy": {
+    "stojka": "kapsula-4-stojka.glb",
+    "razvorot": "kapsula-4-razvorot.glb"
+   }
+  },
+  "6": {
+   "model": "kapsula-6.glb",
+   "klipy": {
+    "stojka": "kapsula-6-stojka.glb",
+    "razvorot": "kapsula-6-razvorot.glb"
+   }
+  },
+  "7": {
+   "model": "kapsula-7.glb",
+   "klipy": {
+    "stojka": "kapsula-7-stojka.glb",
+    "razvorot": "kapsula-7-razvorot.glb"
+   }
+  },
+  "8": {
+   "model": "kapsula-8.glb",
+   "klipy": {
+    "stojka": "kapsula-8-stojka.glb",
+    "razvorot": "kapsula-8-razvorot.glb"
+   }
   }
  }
 }
